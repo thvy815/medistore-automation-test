@@ -50,6 +50,8 @@ Future test coverage may include:
 ---
 
 ## 5. Project Structure
+
+```plaintext
 medistore-automation-test/
 ├── src/test/java/com/medistore/
 │ ├── tests/ # Test cases (LoginTest, ...)
@@ -58,6 +60,7 @@ medistore-automation-test/
 │ └── config.properties # Environment configuration
 ├── pom.xml
 └── README.md
+```
 
 ---
 
@@ -146,5 +149,5 @@ It demonstrates the ability to:
 ---
 
 ## 12. Related Projects
-Backend: https://github.com/thvy815/MediStore_Backend
-Frontend: https://github.com/thvy815/MediStore_Frontend
+- Backend: https://github.com/thvy815/MediStore_Backend
+- Frontend: https://github.com/thvy815/MediStore_Frontend
